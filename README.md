@@ -1,2 +1,2 @@
 # React-login
-Login functionality with MongoDB, React/Redux, NodeJS
+Login functionality with MongoDB, Express, React/Redux, NodeJS
